@@ -9,7 +9,7 @@ Dieses Repository dient zur Unterstützung  des Praxisprojekts von Hendrik Pawlo
 
 <a href="https://github.com/hendrikpawlowski/Praxisprojekt-SS2020-Pawlowski/wiki/Mockups">Mockups</a>
 
-<a href="https://xd.adobe.com/view/ad22c025-7ccf-41e7-a733-fe79ebdd5316-f871/screen/d8ea6222-b20b-4539-a889-d547f947afe2/">Prototyp</a>
+<a href="https://xd.adobe.com/view/ad22c025-7ccf-41e7-a733-fe79ebdd5316-f871/">Prototyp</a>
 
 ## Hinweise zur Benutzung des Prototypen
 
